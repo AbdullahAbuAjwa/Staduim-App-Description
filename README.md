@@ -1,8 +1,9 @@
 # Stadium App
 
-Stadium App allows football fans to reserve football stadiums easily and quickly .The system contains two person: user and stadium manager, both of whom can signup and add their information.
-The user can create an account as a user and browse and reserve the stadiums, as well as he can filter and search for stadiums easily, see the locations of the stadiums, chat with the stadium owner as well as rate the stadium after completing his reservation.
-Stadium owners can create account as a stadium manager and add their stadium data to facilitate its visibility with users, and can also manage the stadium and reservations through the application
+Stadium App allows football players to reserve football stadiums easily and quickly. The system contains two person: user and stadium manager, both of whom can signup and add their information.
+The user can create an account as a user, app contains many features to ease reservation for the user, such as filtering and sorting stadiums, real-time chatting between users and stadium owners, showing location and direction for stadiums, rating stadium after reserving it, archiving reservations.
+The app enables stadium owners to create an account as a stadium manager, they can add the location of the stٍadium, images for the stadium, booking price in the evening & morning, add stadium services, working hours and days and the terms of reservation, they can also manage the stadium and reservations through the app.
+The app support English and Arabic languages, and dark mode.
 
 ![logo](https://github.com/AbdullahAbuAjwa/reserve_stadium/blob/master/assets/images/launcher.png?raw=true)
 ### User pages
