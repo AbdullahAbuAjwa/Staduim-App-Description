@@ -9,9 +9,13 @@ The app enables stadium owners to create an account as a stadium manager, they c
 The app support English and Arabic languages, and dark mode.
 
 Contributors:
+
 [Abdullah Abu Ajwa](https://www.linkedin.com/in/abdullahabuajwa/)
+
 [Hashem Hijazy](https://www.linkedin.com/in/hashem-hejazy-7763481ab/)
+
 Khaled Ballour
+
 
 ![logo](https://github.com/AbdullahAbuAjwa/reserve_stadium/blob/master/assets/images/launcher.png?raw=true)
 ### User pages
